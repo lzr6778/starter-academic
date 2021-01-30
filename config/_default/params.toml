@@ -97,7 +97,7 @@ address = {street = "Gokasho", city = "Uji", region = "Kyoto", postcode = "611-0
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "34.9103", longitude = "135.8019"}
+coordinates = {latitude = "34.910692147", longitude = "135.80208456"}
 
 # Directions for visitors to locate you.
 directions = "Coastal Disaster Research Laboratory, Disaster Prevention Research Institute"
