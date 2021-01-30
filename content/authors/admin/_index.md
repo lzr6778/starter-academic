@@ -21,6 +21,8 @@ interests:
 - Coastal engineering 
 - Oceanography 
 - Wave theory
+- Freak wave
+- Numerical simulation
 
 # Education to show in About widget
 education:
