@@ -35,18 +35,18 @@ experience:
    #     * Modelling
    #     * Deploying
    
-  - title: Professor
-    company: University X
+  - title: Theoretical study of semi-circular submerged breakwater
+    company: Ocean University of China
     company_url: ''
-    location: California
+    location: Qsingdao, China
     date_start: '2015-09-01'
     date_end: '2018-06-30'
     description: 
    
-  - title: Professor
-    company: University X
+  - title: Study of wave energy conversion devive 
+    company: Tsinghua University 
     company_url: ''
-    location: California
+    location: Beijing, China
     date_start: '2015-03-01'
     date_end: '2015-06-30'
     description: 
