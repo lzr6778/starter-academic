@@ -34,6 +34,21 @@ experience:
    #     * Analysing
    #     * Modelling
    #     * Deploying
-        
+   
+     - title: Numerical study of freak wave
+    company: Kyoto University
+    company_url: ''
+    location: Kyoto, Japan
+    date_start: '2018-10-01'
+    date_end: ''
+    description: |2-
+    
+      - title: Numerical study of freak wave
+    company: Kyoto University
+    company_url: ''
+    location: Kyoto, Japan
+    date_start: '2018-10-01'
+    date_end: ''
+    description: |2-
 
 ---
