@@ -35,20 +35,5 @@ experience:
    #     * Modelling
    #     * Deploying
         
-  - title: Theoretical Study of semi-circular submerged breakwater
-    company: Ocean University of China
-    company_url: ''
-    location: Qingdao, China
-    date_start: '2015-10-01'
-    date_end: '2018-06-31'
-    description: 
-    
-   - title: Study of Wave Energy Conversion Device
-    company: Tsinghua University
-    company_url: ''
-    location: Beijing, CHina
-    date_start: '2015-02-01'
-    date_end: '2015-06-31'
-    description: 
-    
+
 ---
