@@ -72,7 +72,7 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
+I'm a Ph.D. student in Kyoto University. My current research is analyzation of freak wave, which is a natural disaster caused by high-order nonlinearity in random wave train.
+I concentrated on Biology in high school, and turned to hydraulic engineering in University. I am interested in describing natural phenomenon in beautiful mathematical equations and numerical analysis.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
