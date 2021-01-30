@@ -13,7 +13,7 @@ organizations:
 - name: Coastal Disaster Research Laboratory
   url: http://www.coast.dpri.kyoto-u.ac.jp/english/
 - name: DPRI, Kyoto University
-  url: http://www.coast.dpri.kyoto-u.ac.jp/english/
+  url: https://www.dpri.kyoto-u.ac.jp/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
