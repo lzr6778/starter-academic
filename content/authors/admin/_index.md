@@ -10,7 +10,9 @@ role: Ph.D. candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Kyoto University
+- name: Coastal Disaster Research Laboratory
+  url: http://www.coast.dpri.kyoto-u.ac.jp/english/
+- name: DPRI, Kyoto University
   url: http://www.coast.dpri.kyoto-u.ac.jp/english/
 
 # Short bio (displayed in user profile at end of posts)
