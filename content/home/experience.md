@@ -35,20 +35,11 @@ experience:
    #     * Modelling
    #     * Deploying
    
-     - title: Numerical study of freak wave
-    company: Kyoto University
+  - title: Professor
+    company: University X
     company_url: ''
-    location: Kyoto, Japan
-    date_start: '2018-10-01'
-    date_end: ''
-    description: |2-
-    
-      - title: Numerical study of freak wave
-    company: Kyoto University
-    company_url: ''
-    location: Kyoto, Japan
-    date_start: '2018-10-01'
-    date_end: ''
-    description: |2-
-
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2016-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 ---
