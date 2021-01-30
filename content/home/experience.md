@@ -35,11 +35,20 @@ experience:
    #     * Modelling
    #     * Deploying
         
-  - title: Professor
-    company: University X
+  - title: Theoretical Study of semi-circular submerged breakwater
+    company: Ocean University of China
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Qingdao, China
+    date_start: '2015-10-01'
+    date_end: '2018-06-31'
+    description: 
+    
+   - title: Study of Wave Energy Conversion Device
+    company: Tsinghua University
+    company_url: ''
+    location: Beijing, CHina
+    date_start: '2015-02-01'
+    date_end: '2015-06-31'
+    description: 
+    
 ---
