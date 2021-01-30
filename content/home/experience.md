@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Research Experience
+title: Experience
 subtitle:
 
 # Date format for experience
@@ -22,28 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Numerical Study of Freak wave
-    company: Kyoto University
+  - title: CEO
+    company: GenCoin
     company_url: ''
-    location: Kyoto, Japan
-    date_start: 'Oct. 2018 '
+    location: California
+    date_start: '2017-01-01'
     date_end: ''
     description: |2-
+        Responsibilities include:
         
-  - title: Theoretical Study of semi-circular submerged breakwater
-    company: Ocean university of China
+        * Analysing
+        * Modelling
+        * Deploying
+        
+  - title: Professor
+    company: University X
     company_url: ''
-    location: Qingdao, China
-    date_start: 'Sept. 2015'
-    date_end: 'Jul. 2018'
-    description: 
-    
-   - title: Study of Wave Energy Conversion Device
-    company: Tsinghua University
-    company_url: ''
-    location: Beijing, China
-    date_start: 'Mar. 2015'
-    date_end: 'Jun. 2015'
-    description: 
-
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2016-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 ---
