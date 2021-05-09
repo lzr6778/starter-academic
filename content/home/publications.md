@@ -10,9 +10,9 @@ headless: true
 weight: 90
 
 title: Publications
-subtitle: '1'
+subtitle: ''
 
-content:
+
   
 ---
 
