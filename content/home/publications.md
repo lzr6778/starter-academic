@@ -13,7 +13,6 @@ title: Publications
 subtitle: ''
 
 content:
-1
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how much pages you would like to display (0 = all pages)
