@@ -12,8 +12,13 @@ weight: 90
 title: Publications
 subtitle: ''
 
-Lyu, Z., Liu, Y., Li, H., & Mori, N. Iterative multipole solution for wave interaction with submerged partially perforated semi-circular breakwater. Applied Ocean Research, 2020，97, 102103.
+content:
 
+Lyu, Z., Liu, Y., Li, H., & Mori, N. Iterative multipole solution for wave interaction with submerged partially perforated semi-circular breakwater. Applied Ocean Research, 2020，97, 102103.
+  
+design:
+  columns: '2'
+  
 ---
 
 
