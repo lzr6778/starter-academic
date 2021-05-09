@@ -29,8 +29,6 @@ content:
     author: ''
     exclude_featured: true
     
-    111
-    
 design:
   # Choose a view for the listings:
   #   1 = List
