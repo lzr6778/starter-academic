@@ -77,4 +77,4 @@ highlight_name: false
   I'm a Ph.D. student in Kyoto University. My current research is analyzation of freak wave, which is a natural disaster caused by high-order nonlinearity in random wave train.
   I concentrated on Biology Olympiad in high school, and turned to Hydraulic Engineering in University. After that, I focus on the research about coastal and offshore engineering. I am interested in describing natural phenomenon in beautiful mathematical equations and numerical analysis.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+
