@@ -13,7 +13,7 @@ subtitle: ''
 
 ---
 
-Lyu, Z., Mori, N., Kashima, H. Freak wave in high-order weakly nonlinear wave evolution with bottom topography change. Coastal Engineering, 2021 (accepted).
+Lyu, Z., Mori, N., Kashima, H. Freak wave in high-order weakly nonlinear wave evolution with bottom topography change. Coastal Engineering, 2021: 103918.
 
 Lyu, Z., Mori, N., Kashima, H. Evolution of high-order weakly nonlinear waves with bottom topography change. Journal of Japan Society of Civil Engineers, Series B2(Coastal Engineering), 2020, Vol. 76, No.2.
 
