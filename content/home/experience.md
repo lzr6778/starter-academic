@@ -29,7 +29,7 @@ experience:
     date_start: '2021-11-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+      #  Responsibilities include:
         
    #     * Analysing
    #     * Modelling
@@ -41,7 +41,7 @@ experience:
     location: Kyoto, Japan
     date_start: '2018-10-01'
     date_end: ''
-    description: |2-
+    description: 
     
       - title: Theoretical study of semi-circular submerged breakwater
     company: Ocean University of China
