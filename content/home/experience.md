@@ -29,7 +29,6 @@ experience:
     date_start: '2021-11-01'
     date_end: ''
     description: |2-
-      #  Responsibilities include:
         
    #     * Analysing
    #     * Modelling
@@ -43,7 +42,7 @@ experience:
     date_end: ''
     description: 
     
-      - title: Theoretical study of semi-circular submerged breakwater
+  - title: Theoretical study of semi-circular submerged breakwater
     company: Ocean University of China
     company_url: ''
     location: Qsingdao, China
