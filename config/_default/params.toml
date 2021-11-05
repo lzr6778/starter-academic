@@ -100,7 +100,7 @@ address = {street = "The Univ. of Tokyo 7-3-1 Hongo", city = "Bunkyo-ku", region
 coordinates = {latitude = "35.71439483401824", longitude = "139.76003910013938"}
 
 # Directions for visitors to locate you.
-directions = "Coastal Engineering Laboratory, Department of Civil Engineering, The University of Tokyo"
+directions = "Faculty of Engineering Bldg. #1, 2F, room 253"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
