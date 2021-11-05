@@ -26,7 +26,7 @@ experience:
  - title: Numerical study of coral gravel beach
     company: The University of Tokyo
     company_url: ''
-    location: Kyoto, Japan
+    location: Tokyo, Japan
     date_start: '2021-11-01'
     date_end: ''
     description: |2-
@@ -37,7 +37,8 @@ experience:
     location: Kyoto, Japan
     date_start: '2018-10-01'
     date_end: ''
-    description: |2-
+    description: 
+    
    #     Responsibilities include:
         
    #     * Analysing
