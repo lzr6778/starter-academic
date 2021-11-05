@@ -36,12 +36,12 @@ experience:
    #     * Deploying
    
   - title: Numerical study of freak wave
-    company: Ocean University of China
+    company: Kyoto University
     company_url: ''
-    location: Qsingdao, China
-    date_start: '2015-09-01'
-    date_end: '2018-06-30'
-    description: 
+    location: Kyoto, Japan
+    date_start: '2018-10-01'
+    date_end: ''
+    description: |2-
     
       - title: Theoretical study of semi-circular submerged breakwater
     company: Ocean University of China
