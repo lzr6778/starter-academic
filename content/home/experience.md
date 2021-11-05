@@ -36,7 +36,7 @@ experience:
     company_url: ''
     location: Kyoto, Japan
     date_start: '2018-10-01'
-    date_end: ''
+    date_end: '2021-10-30'
     description: 
     
    #     Responsibilities include:
