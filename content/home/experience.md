@@ -23,12 +23,12 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:  
   - title: Numerical study of coral gravel beach
-    company: the University of Tokyo
+    company: The University of Tokyo
     company_url: ''
     location: Tokyo, Japan
     date_start: '2021-11-01'
     date_end: ''
-    description: |2-
+    description: 
         
    #     * Analysing
    #     * Modelling
