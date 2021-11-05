@@ -22,11 +22,11 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:  
-  - title: Numerical study of freak wave
-    company: Kyoto University
+  - title: Numerical study of coral gravel beach
+    company: the University of Tokyo
     company_url: ''
-    location: Kyoto, Japan
-    date_start: '2018-10-01'
+    location: Tokyo, Japan
+    date_start: '2021-11-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -35,7 +35,7 @@ experience:
    #     * Modelling
    #     * Deploying
    
-  - title: Theoretical study of semi-circular submerged breakwater
+  - title: Numerical study of freak wave
     company: Ocean University of China
     company_url: ''
     location: Qsingdao, China
