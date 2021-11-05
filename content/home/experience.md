@@ -29,6 +29,7 @@ experience:
     date_start: '2018-10-01'
     date_end: ''
     description: |2-
+    
    #     Responsibilities include:
         
    #     * Analysing
