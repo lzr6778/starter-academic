@@ -6,14 +6,14 @@ title: Zuorui Lyu
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. candidate
+role: Doctor of Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Coastal Disaster Research Laboratory
-  url: http://www.coast.dpri.kyoto-u.ac.jp/english/
-- name: DPRI, Kyoto University
-  url: https://www.dpri.kyoto-u.ac.jp/
+- name: Coastal Engineering Laboratory
+  url: http://coastal.t.u-tokyo.ac.jp/
+- name: Department of civil engineering, The University of Tokyo
+  url: http://www.civil.t.u-tokyo.ac.jp/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -31,7 +31,7 @@ education:
   courses:
   - course: Ph.D. in Civil and Earth Resources Engineering
     institution: Kyoto University
-    year: 2018-
+    year: 2018-2021
   - course: M.Sc.Eng. in Port, Coastal and Offshore Engineering
     institution: Ocean University of China
     year: 2015-2018
@@ -74,7 +74,8 @@ email: ""
 highlight_name: false
 ---
 
-  I'm a Ph.D. student in Kyoto University. My current research is analyzation of freak wave, which is a natural disaster caused by high-order nonlinearity in random wave train.
+  I'm a reseacher in coastal engineering lab in the University of Tokyo. My current research is numerical modeling of the coral gravel beach. 
+
   I concentrated on Biology Olympiad in high school, and turned to Hydraulic Engineering in University. After that, I focus on the research about coastal and offshore engineering. I am interested in describing natural phenomenon in beautiful mathematical equations and numerical analysis.
 
 
