@@ -13,7 +13,7 @@ subtitle: ''
 
 ---
 
-Lyu Z., Mori N., Kashima H.: Freak Wave in a Two-Dimensional Directional Wavefield with Bottom Topography Change: Part I. Normal Incident Wave. Journal of Fluid Mechanics, 2022, accepted.
+Lyu Z., Mori N., Kashima H.: Freak Wave in a Two-Dimensional Directional Wavefield with Bottom Topography Change: Part I. Normal Incident Wave. Journal of Fluid Mechanics, 2023, accepted.
 
 Lyu Z., Mori N., Kashima H.: Freak wave in high-order weakly nonlinear wave evolution with bottom topography change. Coastal Engineering, 2021, 167: 103918.
 
