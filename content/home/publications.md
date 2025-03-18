@@ -8,22 +8,16 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Publications
+title: Publications(main)
 subtitle: ''
 
 ---
 
-Lyu Z., Mori N., Kashima H.: Freak Wave in a Two-Dimensional Directional Wavefield with Bottom Topography Change: Part I. Normal Incident Wave. Journal of Fluid Mechanics, 2023, accepted.
+Lyu Z, Mori N, Kashima H. Freak wave in a two-dimensional directional wavefield with bottom topography change. Part 1. Normal incidence wave. Journal of Fluid Mechanics, 2023, 959: A19.
 
 Lyu Z., Mori N., Kashima H.: Freak wave in high-order weakly nonlinear wave evolution with bottom topography change. Coastal Engineering, 2021, 167: 103918.
 
-Lyu Z., Mori N., Kashima H.: Evolution of nonlinear directional random wave train from deep to shallow water, Journal of Japan Society of Civil Engineers, Series B2(Coastal Engineering), 2021, Vol. 77, No.2.
-
-Mori N., Lyu Z., Sabunas A., Shimura T., Miyashita T.: Development of a statistical wave model considering regional and local atmospheric variables, Journal of Japan Society of Civil Engineers, Series B2(Coastal Engineering), 2021, Vol. 77, No.2.
-
-Lyu Z., Mori N., Kashima H.: Evolution of high-order weakly nonlinear waves with bottom topography change. Journal of Japan Society of Civil Engineers, Series B2(Coastal Engineering), 2020, Vol. 76, No.2.
-
-Lyu Z., Kashima H., Mori N.: High order nonlinear wave interactions from deep to finite water depth with bottom topography change. Proceedings of 36th virtual International Conference on Coastal Engineering, 2020, Waves.24.
+Lyu Z, Liu Y, Li H, et al. Multipole solution with nonlinear pressure loss for oblique waves action on a submerged partially perforated semi-circular breakwater. Ocean Engineering, 2024, 291: 116487.
 
 Li A., Liu Y., Lyu Z.: Analysis of water wave interaction with a submerged quarter-circular breakwater using multipole method. Proceedings of the Institution of Mechanical Engineers, Part M: Journal of Engineering for the Maritime Environment, 2020, 234(4):846-860.
 
