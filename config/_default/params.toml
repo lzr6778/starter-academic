@@ -93,14 +93,14 @@ phone = "+81 080-8805-8836"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "The Univ. of Tokyo 7-3-1 Hongo", city = "Bunkyo-ku", region = "Tokyo", postcode = "113-8656", country = "Japan", country_code = "JP"}
+address = {street = "DPRI, Kyoto University", city = "Uji-shi", region = "Kyoto", postcode = "611-0011", country = "Japan", country_code = "JP"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "35.71439483401824", longitude = "139.76003910013938"}
+coordinates = {latitude = "34.910911", longitude = "135.802039"}
 
 # Directions for visitors to locate you.
-directions = "Faculty of Engineering Bldg. #1, 2F, room 253"
+directions = "2F, E210"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
