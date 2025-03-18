@@ -10,10 +10,10 @@ role: Doctor of Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Coastal Engineering Laboratory
-  url: http://coastal.t.u-tokyo.ac.jp/
-- name: Department of civil engineering, The University of Tokyo
-  url: http://www.civil.t.u-tokyo.ac.jp/
+- name: Coastal Disaster Risk Research Laboratory
+  url: https://www.coast.dpri.kyoto-u.ac.jp/english/
+- name: Disaster Prevention Research Institute, Kyoto University
+  url: https://www.dpri.kyoto-u.ac.jp/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -24,7 +24,7 @@ interests:
 - Oceanography 
 - Wave theory
 - Freak wave
-- Numerical simulation
+- Global wave modeling
 
 # Education to show in About widget
 education:
@@ -52,7 +52,7 @@ social:
 #  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=KYIx6t0AAAAJ&hl=zh-CN
 - icon: github
   icon_pack: fab
 #  link: https://github.com/gcushen
@@ -74,7 +74,7 @@ email: ""
 highlight_name: false
 ---
 
-  I'm a reseacher in coastal engineering lab in the University of Tokyo. My current research is numerical modeling of the coral gravel beach. 
+  I'm a reseacher in coastal disaster risk research lab in Kyoto university. My current research is freak waves in global wave modeling in climate change. 
 
   I concentrated on Biology Olympiad in high school, and turned to Hydraulic Engineering in University. After that, I focus on the research about coastal and offshore engineering. I am interested in describing natural phenomenon in beautiful mathematical equations and numerical analysis.
 
