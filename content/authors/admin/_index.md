@@ -78,4 +78,6 @@ highlight_name: false
 
   I concentrated on Biology Olympiad in high school, and turned to Hydraulic Engineering in University. After that, I focus on the research about coastal and offshore engineering. I am interested in describing natural phenomenon in beautiful mathematical equations and numerical analysis.
 
+  Beyond research, I am improving my table tennis skills and taking part in Kyoto's local match. 
+
 
