@@ -22,11 +22,11 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:  
-  - title: Numerical study of coral gravel beach
-    company: The University of Tokyo
+  - title: Project of global wave modeling 
+    company: Kyoto University
     company_url: ''
-    location: Tokyo, Japan
-    date_start: '2021-11-01'
+    location: Kyoto, Japan
+    date_start: '2023-04-01'
     date_end: ''
     description: 
         
