@@ -38,4 +38,7 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 2
+
+    # Add an image to the Recent Posts section
+  image: "/images/IMG_8566.jpg"
 ---
